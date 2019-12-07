@@ -1,0 +1,13 @@
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\bin\Debug\netcoreapp3.0\SampleDataChallenge.exe
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\bin\Debug\netcoreapp3.0\Data\FirstNames.txt
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\bin\Debug\netcoreapp3.0\Data\Surnames.txt
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\bin\Debug\netcoreapp3.0\SampleDataChallenge.deps.json
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\bin\Debug\netcoreapp3.0\SampleDataChallenge.runtimeconfig.json
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\bin\Debug\netcoreapp3.0\SampleDataChallenge.runtimeconfig.dev.json
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\bin\Debug\netcoreapp3.0\SampleDataChallenge.dll
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\bin\Debug\netcoreapp3.0\SampleDataChallenge.pdb
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\obj\Debug\netcoreapp3.0\SampleDataChallenge.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\obj\Debug\netcoreapp3.0\SampleDataChallenge.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\obj\Debug\netcoreapp3.0\SampleDataChallenge.AssemblyInfo.cs
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\obj\Debug\netcoreapp3.0\SampleDataChallenge.dll
+C:\Users\justi\source\repos\SampleDataChallenge\SampleDataChallenge\obj\Debug\netcoreapp3.0\SampleDataChallenge.pdb
